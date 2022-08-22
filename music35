@@ -1,0 +1,15 @@
+{
+  "isJMD":false,
+  "popupProbability":1,
+  "promotionHtml":"更快的下载速度，更快的试听速度。。。",
+  "appID":"com.dkdi.sjk.sfj",
+  "promotionID":"com.lkdi.dpoii.dii",
+  "showAD":true,
+  "forcedUpdate":false,
+  "showUpdate":true,
+  "remarks":"服务器短备注",
+  "VersionJMD":"1",
+  "TubeEngine":2,
+  "tubeDownload":true
+  
+}
