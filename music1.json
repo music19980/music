@@ -1,14 +1,14 @@
 {
+  "remarks":"",
+  "appID":"com.ddgames.newmusicplayer",
+  "promotionID":"com.musicDownloader.mp3.pplmo",
   "isJMD":false,
   "popupProbability":1,
-  "promotionHtml":"更快的下载速度，更快的试听速度。。。",
-  "appID":"com.dkdi.sjk.sfj",
-  "promotionID":"com.lkdi.dpoii.dii",
+  "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
   "forcedUpdate":false,
-  "showUpdate":true,
-  "remarks":"服务器短备注",
-  "VersionJMD":"1",
+  "showUpdate":false,
+  "VersionJMD":"10000",
   "TubeEngine":2,
   "tubeDownload":true
   
