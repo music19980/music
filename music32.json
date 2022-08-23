@@ -1,0 +1,15 @@
+{
+  "remarks":"",
+  "appID":"com.music.downloader.all.ererop",
+  "promotionID":"com.musicDownloader.mp3.pplmo",
+  "isJMD":false,
+  "popupProbability":1,
+  "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
+  "showAD":true,
+  "forcedUpdate":false,
+  "showUpdate":false,
+  "VersionJMD":"10000",
+  "TubeEngine":2,
+  "tubeDownload":true
+  
+}
