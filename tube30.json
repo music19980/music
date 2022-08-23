@@ -1,0 +1,15 @@
+{
+  "remarks":"",
+  "appID":"com.tube.play.download.uuemci",
+  "promotionID":"com.video.download.ggfasqq",
+  "isJMD":false,
+  "popupProbability":1,
+  "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
+  "showAD":true,
+  "forcedUpdate":false,
+  "showUpdate":false,
+  "VersionJMD":"10",
+  "TubeEngine":1,
+  "tubeDownload":true
+  
+}
