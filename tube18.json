@@ -5,7 +5,7 @@
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
-  "showAD":true,
+  "showAD":false,
   "forcedUpdate":false,
   "showUpdate":false,
   "VersionJMD":"10000",
