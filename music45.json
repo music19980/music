@@ -1,13 +1,13 @@
 {
   "remarks":"",
   "appID":"com.music.download.pro.llkopu",
-  "promotionID":"com.musicDownloader.mp3.pplmo",
+  "promotionID":"com.freemusic.download.dnmapml",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
   "forcedUpdate":false,
-  "showUpdate":false,
+  "showUpdate":true,
   "VersionJMD":"10000",
   "TubeEngine":2,
   "tubeDownload":true
