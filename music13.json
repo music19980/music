@@ -1,13 +1,13 @@
 {
   "remarks":"",
   "appID":"com.music.downloader.cc.lpouh",
-  "promotionID":"com.freemusic.download.dnmapml",
+  "promotionID":"com.freemusic.new.eeokj",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
   "forcedUpdate":false,
-  "showUpdate":false,
+  "showUpdate":true,
   "VersionJMD":"10000",
   "TubeEngine":2,
   "tubeDownload":true
