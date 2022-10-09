@@ -1,7 +1,7 @@
 {
   "remarks":"",
   "appID":"com.music.free.download.dlmnap",
-  "promotionID":"com.freemusic.download.dnmapml",
+  "promotionID":"com.music.free.download.dlmnap",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
