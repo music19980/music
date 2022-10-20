@@ -1,0 +1,14 @@
+{
+  "remarks":"",
+  "appID":"com.musicdownload.ffopmnh",
+  "promotionID":"com.freemusic.download.dnmapml",
+  "isJMD":false,
+  "popupProbability":1,
+  "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
+  "showAD":true,
+  "forcedUpdate":false,
+  "showUpdate":false,
+  "VersionJMD":"10000",
+  "TubeEngine":2,
+  "tubeDownload":true
+}
