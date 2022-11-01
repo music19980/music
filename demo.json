@@ -1,16 +1,7 @@
 
 {
-  "isJMD":   是否只显示JMD引擎
-  "popupProbability":广告弹出概率
-  "promotionHtml": 弹框的内容
-  "appID"：当前应用的包名
-  "promotionID":推广应用的包名
-  "showAD":是否显示广告
-  "forcedUpdate":是否强制更新
-  "showUpdate":是否更新
-  "remarks":我的备注
-  "VersionJMD":应用版本大于等于此版本号时只显示JMD
-  "TubeEngine":tube引擎选择，1.newpipe 2备用 默认2
-  "tubeDownload":是否显示YouTube引擎，音乐默认显示，视频默认不显示
+Work Plan
+Update the app to fix threading issues
+Financial approval of copyright fees for the next quarter
   
 }
