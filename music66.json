@@ -1,7 +1,7 @@
 {
   "remarks":"",
-  "appID":"com.freemusic.download.dnmapml",
-  "promotionID":"com.musicDownloader.mp3.pplmo",
+  "appID":"com.musicdownload.ffopmnh",
+  "promotionID":"com.musicdownload.ffopmnh",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
