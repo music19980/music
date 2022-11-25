@@ -1,7 +1,7 @@
 {
   "remarks":"",
-  "appID":"com.music.downloader.download.app.pro",
-  "promotionID":"com.music.downloader.download.app.pro",
+  "appID":"com.downloadmusic.ss.supermusic",
+  "promotionID":"com.downloadmusic.ss.supermusic",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
