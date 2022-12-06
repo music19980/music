@@ -10,7 +10,7 @@
   "showUpdate":false,
   "VersionJMD":"10000",
   "TubeEngine":2,
-  "strategyAD":1,
+  "strategyAD":3,
   "tubeDownload":true,
   "singer":[
         {
