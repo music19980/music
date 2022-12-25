@@ -1,7 +1,7 @@
 {
   "remarks":"",
-  "appID":"com.ddgames.newmusicplayer",
-  "promotionID":"com.ddgames.newmusicplayer",
+  "appID":"com.supomty.music.download.downloader",
+  "promotionID":"com.supomty.music.download.downloader",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
