@@ -6,7 +6,7 @@
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
-  "strategyAD":1,
+  "strategyAD":2,
   "adPriority":21,
   "forcedUpdate":false,
   "showUpdate":true,
