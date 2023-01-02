@@ -8,8 +8,8 @@
   "showAD":true,
   "strategyAD":2,
   "forcedUpdate":false,
-  "showUpdate":true,
-  "VersionJMD":"1000",
+  "showUpdate":false,
+  "VersionJMD":"265",
   "TubeEngine":2,
   "tubeDownload":true,
   "singer":[
