@@ -1,8 +1,6 @@
 {
   "remarks":"",
-  "appID":"com.supomty.music.download.downloader",
-  "promotionID":"com.supomty.music.download.downloader",
-  "isJMD":false,
+  "appID":"com.freemusic.download.plmnjqomotionID":"com.freemusic.download.plmnjqJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":false,
