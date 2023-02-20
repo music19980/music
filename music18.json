@@ -7,7 +7,6 @@
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
   "strategyAD":2,
-  "adPriority":12,
   "forcedUpdate":false,
   "showUpdate":false,
   "VersionJMD":"25",
