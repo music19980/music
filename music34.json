@@ -1,13 +1,13 @@
 {
   "remarks":"",
-  "appID":"com.downloader.music.free.ab",
-  "promotionID":"com.downloader.music.free.ab",
+  "appID":"com.music.download.chat",
+  "promotionID":"com.music.download.chat",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
   "forcedUpdate":false,
-  "showUpdate":false,
+  "showUpdate":true,
   "VersionJMD":"10000",
   "TubeEngine":2,
   "tubeDownload":true
