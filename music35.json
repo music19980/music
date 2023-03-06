@@ -12,7 +12,7 @@
   "VersionJMD":"10000",
   "TubeEngine":2,
   "tubeDownload":true,
-  "downloader":2,
+  "downloader":1,
   "singer":[
         {
           "name":"tips-official"
