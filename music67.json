@@ -11,7 +11,7 @@
   "VersionJMD":"10000",
   "TubeEngine":2,
   "tubeDownload":true,
-  "strategyAD":1,
+  "strategyAD":2,
   "singer":[
         {
           "name":"tips-official"
