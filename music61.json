@@ -9,9 +9,9 @@
   "strategyAD":2,
   "adPriority":12,
   "forcedUpdate":false,
-  "showUpdate":true,
-  "VersionJMD":"10000",
-  "TubeEngine":2,
+  "showUpdate":false,
+  "VersionJMD":"20",
+  "TubeEngine":1,
   "tubeDownload":true,
   "singer":[
         {
