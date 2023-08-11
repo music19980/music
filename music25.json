@@ -8,9 +8,9 @@
   "showAD":true,
   "strategyAD":2,
   "forcedUpdate":false,
-  "showUpdate":false,
+  "showUpdate":true,
   "VersionJMD":"10000",
-  "TubeEngine":2,
+  "TubeEngine":1,
   "tubeDownload":true,
   "singer":[
         {
