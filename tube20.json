@@ -9,8 +9,8 @@
   "strategyAD":2,
   "forcedUpdate":false,
   "showUpdate":false,
-  "VersionJMD":"20",
-  "TubeEngine":2,
+  "VersionJMD":"10000",
+  "TubeEngine":1,
   "tubeDownload":true
   
 }
