@@ -6,9 +6,10 @@
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
+  "strategyAD":2,
   "forcedUpdate":false,
   "showUpdate":false,
-  "VersionJMD":"10000",
+  "VersionJMD":"20",
   "TubeEngine":2,
   "tubeDownload":true
   
