@@ -1,6 +1,7 @@
 {
   "remarks":"",
   "appID":"",
+  "adPriority":21
   "promotionID":"com.music.download.chat",
   "isJMD":false,
   "popupProbability":1,
