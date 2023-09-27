@@ -9,7 +9,7 @@
   "strategyAD":2,
   "forcedUpdate":false,
   "showUpdate":false,
-  "VersionJMD":"30",
+  "VersionJMD":"35",
   "TubeEngine":2,
   "tubeDownload":true,
   "downloader":1,
