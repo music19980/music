@@ -7,7 +7,7 @@
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
   "showAD":true,
   "strategyAD":2,
-  "forcedUpdate":true,
+  "forcedUpdate":false,
   "showUpdate":true,
   "VersionJMD":"10000",
   "TubeEngine":2,
