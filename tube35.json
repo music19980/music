@@ -1,0 +1,16 @@
+{
+  "remarks":"",
+  "appID":"com.musicdownload.ffopmnh",
+  "promotionID":"com.musicdownload.ffopmnh",
+  "isJMD":false,
+  "popupProbability":1,
+  "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
+  "showAD":true,
+  "strategyAD":2,
+  "forcedUpdate":false,
+  "showUpdate":false,
+  "VersionJMD":"1",
+  "TubeEngine":2,
+  "tubeDownload":false
+  
+}
