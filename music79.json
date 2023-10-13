@@ -12,7 +12,7 @@
   "VersionJMD":"10000",
   "TubeEngine":2,
   "tubeDownload":true,
-  "pb_xnj":true
+  "pb_xnj":true,
   "singer":[
         {
           "name":"tips-official"
