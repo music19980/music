@@ -1,7 +1,7 @@
 {
   "remarks":"",
   "appID":"com.music.freedownload.ddoiuk",
-  "promotionID":"",
+  "promotionID":"com.music.freedownload.ddoiuk",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
