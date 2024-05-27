@@ -2,7 +2,7 @@
   "remarks":"",
   "appID":"",
   "adPriority":12,
-  "promotionID":"com.freemusic.download.oiuna",
+  "promotionID":"com.music.downloader.sptfifst",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
