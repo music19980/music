@@ -1,7 +1,7 @@
 {
   "remarks":"",
   "appID":"com.music.download.chat",
-  "promotionID":"com.musicdownload.free.ikloiu",
+  "promotionID":"",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fix download failure problem, optimize download speed, optimize audition speed",
