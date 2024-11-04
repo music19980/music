@@ -1,7 +1,7 @@
 {
   "remarks":"",
   "appID":"",
-  "promotionID":"com.freemusic.download.oiuna",
+  "promotionID":"com.ddgames.newmusicplayer",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fixed playback failure issue, Fixed download failure issue",
