@@ -9,7 +9,7 @@
   "strategyAD":2,
   "adPriority":12,
   "forcedUpdate":false,
-  "showUpdate":false,
+  "showUpdate":true,
   "VersionJMD":"40",
   "SubPrice":"5.99",
   "TubeEngine":1,
