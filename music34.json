@@ -1,7 +1,7 @@
 {
   "remarks":"",
   "appID":"",
-  "promotionID":"com.music.freedownload.ddoiuk",
+  "promotionID":"com.download.music.kjpunty",
   "isJMD":false,
   "popupProbability":1,
   "promotionHtml":"Fixed playback failure issue, Fixed download failure issue",
@@ -9,7 +9,7 @@
   "strategyAD":2,
   "adPriority":12,
   "forcedUpdate":false,
-  "showUpdate":false,
+  "showUpdate":true,
   "VersionJMD":"10000",
   "TubeEngine":"1",
   "tubeDownload":true,
