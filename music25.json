@@ -12,7 +12,7 @@
   "showUpdate":false,
   "VersionJMD":"81",
   "TubeEngine":1,
-  "tubeDownload":true,
+  "tubeDownload":false,
   "pb_xnj":false,
   "singer":[
         {
