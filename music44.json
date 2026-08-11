@@ -17,6 +17,11 @@
         {
           "name":"tips-official"
         },
+		
+		{
+		  "name":"薛之谦"
+		},
+		
         {
           "name":"kismat-konnection"
         },
@@ -31,6 +36,11 @@
         }
     ],
     "song":[
+		
+		{
+		  "name":"薛之谦"
+		},
+		
         {
           "name":"paapi"
         },
