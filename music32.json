@@ -29,7 +29,19 @@
         },
         {
           "name":"beyoncé"
-        }
+        },
+		{
+		  "name":"grupo menos é mais"
+		},
+		{
+		  "name":"simone mendes"
+		},
+		{
+		  "name":"zeca pagodinho"
+		},
+		{
+		  "name":"iza"
+		}
     ],
     "song":[
         {
@@ -82,6 +94,15 @@
         },
         {
           "name":"beyoncé"
-        }
+        },
+		{
+		  "name":"p do pecado"
+		},
+		{
+		  "name":"posso até me apaixonar"
+		},
+		{
+		  "name":"vim pra ficar"
+		}
     ]
 }
